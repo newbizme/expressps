@@ -1,0 +1,10 @@
+{
+  "name": "expressps",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "mustache": "latest",
+    "promise": "latest",
+    "morgan": "latest"
+  }
+}
